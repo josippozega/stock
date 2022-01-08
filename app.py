@@ -61,4 +61,4 @@ st.write(f'Forecast plot for {n_years} years')
 
 st.write("Forecast components")
 #fig2 = m.plot_components(forecast)
-st.write(fig2)
+#st.write(fig2)
