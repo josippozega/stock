@@ -60,5 +60,5 @@ st.write(f'Forecast plot for {n_years} years')
 #st.plotly_chart(fig1)
 
 st.write("Forecast components")
-fig2 = m.plot_components(forecast)
+#fig2 = m.plot_components(forecast)
 st.write(fig2)
